@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE docnavy-etm PUBLIC "-//USA-DOD//DTD IN XML FOR NAVY ETMs 050512//EN" "../../../../../config/read_only/dtd/050512navy-etm.dtd">
+<docnavy-etm>
+    <front>
+        <idinfo>
+            <titleblk>
+                <doctype>OP</doctype>
+                <prtitle>
+                    <nomen>DIVING-1</nomen>
+                </prtitle>
+            </titleblk>
+            <chgdate>12SEP15</chgdate>
+            <chgnum>CHANGE 0</chgnum>
+        </idinfo>
+        <chgrec>
+            <table>
+                <tgroup>
+                    <thead>
+                        <row>
+                            <entry>CHANGE NO</entry>
+                            <entry>DESCRIPTION</entry>
+                            <entry>EFF DATE</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry></entry>
+                            <entry></entry>
+                            <entry></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </chgrec>       
+        <fsection></fsection>
+    </front>
+    <body>
+        <section>
+            <title>Prerequisites</title>
+            <para0>
+                <step1 security="u">
+                    <para>This is prerequisite one.</para>
+                </step1>
+                <step1 security="u">
+                    <para>This is prerequisite two.</para>
+                </step1>
+            </para0>
+        </section>
+        <section>
+            <title>Procedure</title>
+            <para0>
+                <step1 security="u">
+                    <para>Start up the engine.</para>
+                </step1>
+                <step1 security="u">
+                    <para>Put the gear into reverse.</para>
+                </step1>
+                <step1 security="u">
+                    <para>Back out of the driveway.  Use <extref docno="" xidtype="table" xrefid="DIVING-2"/> to stay clear of traffic.</para>
+                </step1>
+            </para0>
+        </section>
+        <section>
+            <title>Finalization</title>
+            <para0>
+                <step1>
+                    <para>Stop the engine.</para>
+                </step1>
+                <step1>
+                    <para>Remove the key.</para>
+                </step1>
+            </para0>
+        </section>
+    </body>
+</docnavy-etm>

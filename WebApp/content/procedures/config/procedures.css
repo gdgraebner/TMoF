@@ -1,0 +1,40 @@
+body
+{
+    margin: 0px;
+    overflow: hidden;
+}
+
+.tm_section
+{
+	font-family: Helvetica;
+	font-size: 8pt;
+	width: 100%;
+	margin: 0px;
+}
+
+.tm_titlebar
+{
+	background-color: #eeeedd;
+	height: 18px;
+	border-width: 1px;
+	border-color: green;
+	border-style: solid;
+	padding-left: 6px;
+}
+
+.tm_step1
+{
+	background-color: #fffff4;
+	height: 18px;
+	border-width: 1px;
+	border-color: silver;
+	border-style: solid;
+	padding-left: 6px;
+}
+
+.extref
+{
+    color: blue;
+    cursor: pointer;
+    background-color: #ddeeee;
+}

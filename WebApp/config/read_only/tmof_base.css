@@ -1,0 +1,339 @@
+body
+{
+    margin: 1px;
+    overflow: hidden;
+}
+
+.detail_button
+{
+    border-radius: 4px;
+    height: 16px;
+    width: 60px;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    float: right;
+    color: white;
+    font-family: Calibri;
+    font-size: 8pt;
+    margin-top: 15px;
+    margin-right: 15px;
+    text-align: center;
+    padding-top: 2px;
+    cursor: pointer;
+}
+
+.label_title
+{
+    float: left;
+    font-family: Calibri;
+    font-size: 8pt;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.tb_title
+{
+    float: left;
+    font-family: Calibri;
+    font-size: 8pt;
+    width: 500px;
+    margin-top: 3px;
+    margin-left: 8px;
+    border-style: solid;
+    border-width: 1px;
+    height: 14px;
+    padding-left: 3px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    background-color: #eeeeee;
+    color: blue;
+}
+
+.label_change
+{
+    float: right;
+    font-family: Calibri;
+    font-size: 8pt;
+    margin-top: 5px;
+    margin-right: 8px;
+}
+
+.label_effdate
+{
+    float: right;
+    font-family: Calibri;
+    font-size: 8pt;
+    margin-top: 5px;
+    margin-right: 8px;
+}
+
+.tb_change
+{
+    float: right;
+    font-family: Calibri;
+    font-size: 8pt;
+    width: 80px;
+    margin-top: 3px;
+    margin-right: 8px;
+    border-style: solid;
+    border-width: 1px;
+    height: 14px;
+    padding-left: 3px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    background-color: #eeeeee;
+    color: blue;
+    text-align: center;
+    cursor: pointer;
+}
+
+.tb_effdate
+{
+    float: right;
+    font-family: Calibri;
+    font-size: 8pt;
+    width: 80px;
+    margin-top: 3px;
+    margin-right: 8px;
+    border-style: solid;
+    border-width: 1px;
+    height: 14px;
+    padding-left: 3px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    background-color: #eeeeee;
+    color: blue;
+    text-align: center;
+}
+
+.div_menu
+{
+    float: left;
+    width: 100%;
+    background-color: #bbbfcf;
+    border-style: inset;
+    border-width: thin;
+}
+
+.div_toolbar
+{
+    float: left;
+    width: 100%;
+    background-color: #bbbfcf;
+    border-style: inset;
+    border-width: thin;
+    height: 20px;
+}
+
+.div_window
+{
+    float: left;
+    width: 100%;
+    border-style: inset;
+    border-width: thin;    
+}
+
+.div_main
+{
+  width:100%;
+  float:left;
+}
+
+.div_header
+{
+  width: 100%;
+  float: left;
+  background-color: #5555dd;
+  background-image: url(headerbkg.jpg);
+  background-repeat: repeat;
+  height: 50px;
+    border-style: outset;
+    border-width: thin;
+}
+
+.div_security
+{
+	width: 100%;
+	float: left;
+	background-color: blue;
+	color: white;
+	height: 22px;
+	border-style: outset;
+    border-width: thin;
+    text-align: center;
+    font-family: calibri;
+}
+
+.div_header_title
+{
+  float: left;
+  margin-top: 10px;
+  margin-left: 8px;
+  color: white;
+  font-size: 20pt;
+  font-family: calibri;
+}
+
+.div_footer
+{
+  width: 100%;
+  float: left;
+  background-color: #aaaaaa;
+  height: 24px;
+  border-style: inset;
+  border-width: thin;
+  border-color: silver;
+}
+
+.div_nav
+{
+  width: 200px;
+  float: left;
+  background-color: #dfdfdf;
+}
+
+.div_separator
+{
+  width: 1px;
+  float: left;
+  border-color: #dfdfdf;
+  border-style: solid;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  cursor: col-resize;
+}
+
+.div_logo
+{
+  float: left;
+  border-width: 0px;
+}
+
+.div_nav_track, .div_nav_folder, .div_nav_item
+{
+  width: 98%;
+  height: 16px;
+  float: left;
+  font-family: calibri;
+  font-size: 8pt;
+  cursor: pointer;
+  padding-left: 5px;
+  overflow: hidden;
+}
+
+.div_nav_track
+{
+  padding-top: 3px;
+  background-color: #9999ee;
+  border-color: #777777;
+  border-style: solid;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+}
+
+.div_nav_folder
+{
+  padding-top: 3px;
+  background-color: #ccccee;
+  border-color: #bbbbbb;
+  border-style: solid;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  display: none;
+}
+
+.div_nav_item
+{
+  display: none;
+}
+
+.div_nav_items
+{
+    width: 200px;
+    float: left;
+    background-color: #dfdfdf;
+    overflow: scroll;
+    border-top-width: thin;
+    border-top-style: inset;
+    border-top-color: silver;
+}
+
+.div_content
+{
+  width: 200px;
+  float: left;
+}
+
+.iframe_content
+{
+  border-width: 0px;
+  overflow: scroll;
+}
+
+.span_footer
+{
+  font-family: calibri;
+}
+
+.f_link
+{
+    float: left;
+    color: yellow;
+    border-radius: 4px;
+    height: 14px;
+    background-color: #7777cc;
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    font-family: Calibri;
+    font-size: 9pt;
+    margin-left: 5px;
+    margin-top: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+.hamburger_icon
+{
+	float:left;
+	font-size: 16pt;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: white;
+	cursor: pointer;
+}
+
+.toolbaritem
+{
+    float: left;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #777777;
+    margin-left: 3px;
+    cursor: pointer;
+    height: 22px;
+    width: 22px;
+}
+
+.imagebutton
+{
+    height: 21px;
+    width: 21px;
+    margin: 0px;
+}
+
+.logo
+{
+    border-top-width: thin;
+    border-top-style: inset;
+    border-top-color: silver;
+}

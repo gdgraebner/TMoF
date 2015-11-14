@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toc build="01OCT2015">
+    <track title="Submarine History">
+        <folder title="Development of the Submarine">
+            <item title="Early Underwater Devices">
+                <tmid>HIST-1</tmid>
+                <change>CHANGE 0</change>
+                <eff_date>15SEP2015</eff_date>
+                <security>U</security>
+                <location>content/history/Development/Early Underwater Devices/CHANGE 0/Early Underwater Devices.html</location>
+            </item>
+            <item title="Early Submarines">
+                <tmid>HIST-2</tmid>
+                <change>CHANGE A</change>
+                <eff_date>09AUG2012</eff_date>
+                <security>C</security>
+                <location>content/history/Development/Early Submarines/CHANGE A/HIST-1.html</location>
+            </item>
+            <item title="Modern Submarines">
+                <tmid/>
+                <change>REVISION 1</change>
+                <eff_date>12JUN2010</eff_date>
+                <security>S</security>
+                <location>content/history/Development/Modern Submarines/REVISION 1/Modern Submarines.html</location>
+            </item>
+            <item title="General Data">
+                <tmid/>
+                <change>CHANGE A</change>
+                <eff_date>15APR2009</eff_date>
+                <security>TS</security>
+                <location>content/history/Development/General Data/CHANGE A/AW4_7 TPP_2015-04-16 Draft3.pdf</location>
+            </item>
+        </folder>
+    </track>
+    <track title="Submarine Construction">
+        <folder title="Definitions and Phraseology">
+            <item title="General Definitions">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Standard Phraseology">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Common Abbreviations">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Compartmentation and Exterior Installations">
+            <item title="Compartmentation">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Exterior Installations">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Tank Arrangements">
+            <item title="Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Water Ballast Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Main Ballast Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Variable Ballast Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Special Ballast Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Fuel Ballast Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Additional Tanks">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Buoyancy and Stability">
+            <item title="Buoyancy">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Stability">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+    </track>
+    <track title="Submarine Systems">
+        <folder title="Engineering Plant">
+            <item title="Type of Drive">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Engines">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Electrical Equipment">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Auxiliary Equipment">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Circuits and Switchboards">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Ventillation System">
+            <item title="Ventilation Arrangement">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Air Purification">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Valves">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+    </track>
+    <track title="Submarine Operations">
+        <folder title="General Surface Operations">
+            <item title="Officer of the Deck">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Ship Handling">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Standard Phraseology">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="General Diving Operations">
+            <item title="Submerging">
+                <tmid>DIVING-1</tmid>
+                <change>CHANGE 0</change>
+                <eff_date>20 SEP 2015</eff_date>
+                <security>U</security>
+                <location>content/procedures/Diving Procedures/DIVING-1/CHANGE 0/DIVING-1.html</location>
+            </item>
+            <item title="Submerged Operation">
+                <tmid>DIVING-2</tmid>
+                <change>CHANGE 0</change>
+                <eff_date>20 SEP 2015</eff_date>
+                <security>U</security>
+                <location>content/procedures/Diving Procedures/DIVING-2/CHANGE 0/DIVING-2.html</location>
+            </item>
+            <item title="Surfacing">
+                <tmid>DIVING-3</tmid>
+                <change>CHANGE 0</change>
+                <eff_date>20 SEP 2015</eff_date>
+                <security>U</security>
+                <location>content/procedures/Diving Procedures/DIVING-3/CHANGE 0/DIVING-3.html</location>
+            </item>
+            <item title="Phraseology">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Compensation">
+            <item title="General">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Compensation by Moments">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="The Compensation Curve">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Compensation by Percentage">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+        <folder title="Patrol Routine">
+            <item title="Introduction">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Duties of Watch Standers">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Diving Procedure">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Surfacing Procedure">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Approach Officer">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Torpedo Rooms">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+            <item title="Standard Phraseology">
+                <tmid/>
+                <change/>
+                <eff_date/>
+                <security>U</security>
+                <location/>
+            </item>
+        </folder>
+    </track>
+</toc>

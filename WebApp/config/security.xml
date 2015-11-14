@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<security>
+    <item abbr="U" color="blue" shorttitle="UNCLASS" longtitle="UNCLASSIFIED//NOFORN"/>
+    <item abbr="C" color="green" shorttitle="CONFIDENTIAL" longtitle="CONFIDENTIAL//NOFORN"/>
+    <item abbr="S" color="red" shorttitle="SECRET" longtitle="SECRET//NOFORN"/>
+    <item abbr="TS" color="purple" shorttitle="TOP SECRET" longtitle="TOP SECRET//NOFORN"/>
+</security>

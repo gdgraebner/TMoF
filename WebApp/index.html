@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+    <title>Tech Manual of the Future</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="config/read_only/tmof_base.css">
+    <script src="config/read_only/nav.js"></script>
+    <script src="config/read_only/security.js"></script>
+    <script src="config/read_only/tmof.js"></script>
+</head>
+<body onload="loadPage();" onresize="loadPage();">
+    <div id="div_security" class="div_security">UNCLASSIFIED</div>
+    <div class="div_header" ondblclick="seeDetail();">
+    	<div class="hamburger_icon" onClick="toggleNav()">&#9776;</div>
+        <div class="div_header_title">Tech Manual of the Future</div>
+    </div>
+    <div id="div_main" class="div_main">
+        <div id="div_nav" class="div_nav">
+            <div id="div_toolbar" class="div_toolbar">
+                <div id="print" class="toolbaritem">
+                    <img id="button_print" class="imagebutton" src="config/read_only/images/printer.jpg" title="Print Document"/>
+                </div>
+                <div id="comment" class="toolbaritem">
+                    <img id="button_comment" class="imagebutton" src="config/read_only/images/comment.jpg" title="Add Comments"/>
+                </div>
+            </div>
+            <div id="div_logo" class="div_logo">
+                <img id="img_logo" class="logo" src="config/read_only/sub4.jpg" title="Courtesy of the San Francisco Maritime National Park Association"/>
+            </div>
+            <div id="div_nav_items" class="div_nav_items"></div>
+        </div>
+        <div id="div_separator" class="div_separator" onmouseover="hoverSeparator()" onmouseout="leaveSeparator()"></div>
+        <div id="div_content" class="div_content">
+            <div id="div_menu" class="div_menu">
+                <div id="label_title" class="label_title">Title:</div>
+                <div id="tb_title" class="tb_title"></div>
+                <div id="tb_effdate" class="tb_effdate"></div>
+                <div id="label_effdate" class="label_effdate">Eff Date:</div>
+                <div id="tb_change" class="tb_change"></div>
+                <div id="label_change" class="label_change">Change:</div>
+            </div>
+            <div id="div_window" class="div_window">
+                <iframe id="iframe_content" class="iframe_content" src=""></iframe>
+            </div>           
+        </div>
+    </div>
+    <div class="div_footer">
+        <div id="flink1" class="f_link"></div>
+        <div id="flink2" class="f_link"></div>
+        <div id="flink3" class="f_link"></div>
+        <div id="flink4" class="f_link"></div>
+        <div id="flink5" class="f_link"></div>
+        <div id="flink6" class="f_link"></div>
+        <div id="flink7" class="f_link"></div>
+        <div id="flink8" class="f_link"></div>
+        <div id="flink9" class="f_link"></div>
+        <div id="flink10" class="f_link"></div>
+    </div>
+</body>
+</html>
